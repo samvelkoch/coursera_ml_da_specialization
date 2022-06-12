@@ -13,16 +13,7 @@
 
 ### [Сертификаты](https://github.com/capitanov/coursera_ml_da_specialization/tree/master/Certificates "Сертификаты") 
 
-Сертификаты об успешном прохождении курсов специализации.
 
-- [Курс 1: Математика и Python для анализа данных](https://www.coursera.org/account/accomplishments/records/L4BGW84C79RA "Математика и Python для анализа данных")
-- [Курс 2: Обучение на размеченных данных](https://www.coursera.org/account/accomplishments/records/AXR6626EMUJ3 "Обучение на размеченных данных")
-- [Курс 3: Поиск структуры в данных](https://www.coursera.org/account/accomplishments/records/HSK4UU584858 "Поиск структуры в данных")
-- [Курс 4: Построение выводов по данным](https://www.coursera.org/account/accomplishments/records/KQTZ2CDRJ5UH "Построение выводов по данным")
-- [Курс 5: Прикладные задачи анализа данных](https://www.coursera.org/account/accomplishments/records/L7HMXKP9EKN2 "Прикладные задачи анализа данных")
-- [Курс 6: Анализ данных: Финальный проект](https://www.coursera.org/account/accomplishments/records/U99XKAU4YYAR "Анализ данных: Финальный проект")
-- [Специализация Машинное обучение и анализ данных](https://www.coursera.org/account/accomplishments/specialization/DC6QPH6QR2V7 "Специализация Машинное обучение и анализ данных")
-___
 
 Репозиторий разбит на категории по курсам:
 
